@@ -9,7 +9,7 @@
     },
     "modules": [
         {
-            "description": "RJ226 death counter",
+            "description": "RJ226 Death Counter",
             "type": "data",
             "uuid": "e2ebcfad-db0b-48c9-8c74-5e2dfc089e39",
             "version": [0, 0, 1]
