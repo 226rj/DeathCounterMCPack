@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "RJ226 Death Counter, Visit rj226.uk for more",
+        "name": "RJ226 Death Counter",
+        "uuid": "24d8e28c-e02a-435b-a37c-4beb02dfa201",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "RJ226 death counter",
+            "type": "data",
+            "uuid": "e2ebcfad-db0b-48c9-8c74-5e2dfc089e39",
+            "version": [0, 0, 1]
+        }
+    ]
+}
